@@ -39,3 +39,4 @@ UPDATED VERSION
 - Official SevaNow logo replaced with the supplied 1536x1536 artwork.
 - Added 12 service icon artworks extracted from the supplied SevaNow service/visiting-card artwork.
 - Updated home service cards, full service gallery, and all service detail pages to use the new icon artwork.
+SevaNow Website - Updated
