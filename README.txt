@@ -1,41 +1,25 @@
-SEVANOW PROFESSIONAL WEBSITE
+SevaNow Website - Redesigned 2026
 
-Files:
-- index.html — main business website
-- digital-services.html
-- cctv-security.html
-- computer-hardware.html
-- networking-wifi.html
-- assets/style.css
-- assets/script.js
-- assets/sevanow-logo.png
-- assets/whatsapp-qr.png (if generated)
+Updated positioning:
+- ONE STOP SOLUTION • ANDHRA PRADESH
+- Digital, Technical, Creative & Business Support
+- Serving Across Andhra Pradesh
 
-Included:
-- Professional responsive mobile/desktop design
-- Brand/logo
-- Service categories + individual service pages
-- About SevaNow
-- Why Choose Us
-- Work/service showcase section
-- 4-step process
-- FAQ
-- Call + WhatsApp buttons
-- WhatsApp enquiry form
-- Google Maps search button
-- Email and location
-- WhatsApp QR
-- SEO title/description basics
-- No database and no paid software required for this static version
+8 main service categories:
+1. Digital & Government Services
+2. Insurance & Vehicle Services
+3. CCTV & Security Solutions
+4. Computer & IT Services
+5. Networking & Wi-Fi Solutions
+6. Digital Creative & Promotion
+7. Business Digital Support
+8. Printing & Documentation
 
-IMPORTANT:
-1. Replace the Google Maps search button with the exact SevaNow business listing URL after the Google Business Profile is created/verified.
-2. Add real customer testimonials only after you have genuine customer reviews.
-3. Add real project photos to the Our Work section as your portfolio grows.
-4. For a custom domain such as sevanow.in, buy the domain separately and connect it to a suitable host.
+Business location directions use fixed coordinates:
+17.776446557698108, 83.22750232745385
 
+Contact:
+9494-02-0023
+sevanowonline@gmail.com
 
-UPDATED VERSION
-- Official SevaNow logo replaced with the supplied 1536x1536 artwork.
-- Added 12 service icon artworks extracted from the supplied SevaNow service/visiting-card artwork.
-- Updated home service cards, full service gallery, and all service detail pages to use the new icon artwork.
+Location row on the homepage is clickable and opens Google Maps driving directions to the fixed SevaNow coordinates.
